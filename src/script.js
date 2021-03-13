@@ -3,8 +3,10 @@ let SQL;
 let db;
 
 // fetchTranslationJSON returns json containing translation data
+// append timestamp to get fresh copy since github pages caching is aggressive
 const fetchTranslationJSON = async () => {
-  const body = await fetch("data.json");
+  const timestamp = new Date().getTime();
+  const body = await fetch(`data.json?${timestamp}`);
   return await body.json();
 }
 
