@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Umamusume DB Translate</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css" integrity="sha512-P5MgMn1jBN01asBgU0z60Qk4QxiXo86+wlFahKrsQf37c9cro517WzVSPPV1tDKzhku2iJ2FVgL67wG03SGnNA==" crossorigin="anonymous" />
+    <style type="text/css">
+    html, body, .container {
+      width: 100%;
+      height: 100%;
+    }
+
+    .jumbotron {
+      width: 100%;
+    }
+    </style>
+  </head>
+  <body>
+    <div class="container d-flex align-items-center">
+      <div class="jumbotron">
+        <h2>Umamusume DB Translate</h2>
+        <p>
+          This tool aims to provide translation to Umamusume ingame text by patching <code>text_data</code> table in <code>master.mdb</code> file.<br/>
+          This process is done completely in the browser. To contribute or get more details, please check the <a href="https://github.com/FabulousCupcake/umamusume-db-translate">GitHub Repository</a>.
+        </p>
+        <h3>Usage</h3>
+        <ol>
+          <li>Locate your <code>master.mdb</code> file after clicking the button below</li>
+          <small>By default it is located at <code>C:\Users\YourUsername\AppData%\LocalLow\Cygames\umamusume\master\master.mdb</code></small>
+          <li>Replace the game <code>master.mdb</code> file with the translated <code>master.mdb</code> file</li>
+        </ol>
+        <div class="text-center m-5">
+          <input id="dbfile" type="file" hidden>
+          <label for="dbfile" class="btn btn-lg btn-primary">Choose File</label>
+        </div>
+        <h3>Notes and Caveats</h3>
+        <ul>
+          <li>
+            This process modifies game files and is <strong>NOT</strong> allowed per game Terms of Service!<br/>
+            Use this tool at your own risk! We are not responsible for any actions taken to your account!
+          </li>
+          <li>Not all ingame text are in <code>master.mdb</code>, so this method does not fully translate the game; e.g. story text remains intact.</li>
+          <li>Since this is a one-time process, if the game is updated and <code>master.mdb</code> is replaced, is you will need to redo the process</li>
+          <li>This tool is made primarily for DMM (Windows) distribution of the game, as it is way easier to replace the file.</li>
+          <small>You can still achieve in-game translation by replacing <code>master.mdb</code> in mobile devices, it's just more painful to do.</small>
+        </ul>
+      </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.4.0/dist/sql-wasm.js" integrity="sha512-8oJoeo0ykAzuJzQFJDnwz9t4Rr+1xue7LFX+kr0NJMpOHH9QJPC563If+sakheUe3QbLwTTgXIGPC6YZTwp7Iw==" crossorigin="anonymous"></script>
+    <script type="text/javascript">window.sql_wasm_path = "https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.4.0/dist";</script>
+    <script src="./script.js"></script>
+  </body>
+</html>
