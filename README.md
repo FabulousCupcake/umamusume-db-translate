@@ -1,4 +1,4 @@
-This project aims to create a tool in form of a static webpage that translates the game [Uma Musume Pretty Derby][1] by patching `master.mdb` file, which is easily swappable in Windows / DMM distribution of the game.
+This project aims to create a tool in form of a static webpage to translate the game [Uma Musume Pretty Derby][1] by patching `master.mdb` file, which is easily swappable in Windows / DMM distribution of the game.
 
 To do this, it uses [`sql.js`][2] to manipulate `master.mdb` directly in the browser.
 
@@ -6,7 +6,7 @@ To do this, it uses [`sql.js`][2] to manipulate `master.mdb` directly in the bro
 The tool can be accessed at https://fabulouscupcake.github.io/umamusume-db-translate/.
 
 ## Contributing
-Translations can be found in csv format at [`src/data/``][3] directory.  
+Translations can be found in csv format at [`src/data/`][3] directory.  
 All csv files will be merged into a single json file and used to do simple search-and-replace to the `text_data` table in `master.mdb`.
 
 ## Development
@@ -22,7 +22,6 @@ $ make
 ==> Done!
 
 $ npx serve public
-
 ┌───────────────────────────────────────────────────┐
 │                                                   │
 │   Serving!                                        │
