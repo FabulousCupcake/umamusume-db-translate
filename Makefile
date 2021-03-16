@@ -3,10 +3,15 @@ OK_COLOR=\033[32;01m
 ERROR_COLOR=\033[31;01m
 WARN_COLOR=\033[33;01m
 
-.PHONY: all build build-json clean
+.PHONY: all append-timestamp build build-json clean
 
-all: clean build
+all: clean build append-timestamp
 	@echo "$(OK_COLOR)==> Done!$(NOCOLOR)"
+
+append-timestamp: build
+	@echo "$(OK_COLOR)==> Appending timestamp to index.html!$(NOCOLOR)"
+	@echo "<!-- Deploy Timestamp: $(shell date --iso-8601=seconds) -->" >> public/index.html
+	@echo "<!-- SHA: $(GITHUB_SHA) -->" >> public/index.html
 
 build-json:
 	@echo "$(OK_COLOR)==> Converting csv files into a single json… $(NO_COLOR)"
