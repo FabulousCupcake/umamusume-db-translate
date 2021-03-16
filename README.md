@@ -8,8 +8,10 @@ To do this, it uses [`sql.js`][2] to manipulate `master.mdb` directly in the bro
 The tool can be accessed at https://fabulouscupcake.github.io/umamusume-db-translate/.
 
 ## Contributing
-Translations can be found in csv format at [`src/data/`][3] directory.  
-All csv files will be merged into a single json file and used to do simple search-and-replace to the `text_data` table in `master.mdb`.
+Please open a pull-request with the changes!
+
+The translation data sources can be found in csv format in [`src/data/`][3] directory.  
+All csv files in it will be merged into a single json file and used to do simple search-and-replace over the `text_data` table in `master.mdb`.
 
 ## Development
 To generate the final static page, simply run `make`. Note that you need `jq` to be installed.
