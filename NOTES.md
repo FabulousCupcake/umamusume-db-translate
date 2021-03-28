@@ -1,5 +1,8 @@
 Just to keep track where each csv entries are taken from.
 
+### CSV Files with dedicated table(s)
+These are in their own csv files.
+
 | Content             | Category ID        |
 | ------------------- | ------------------ |
 | Advice              | 97                 |
@@ -13,3 +16,12 @@ Just to keep track where each csv entries are taken from.
 | Skill Desc          | 48                 |
 | Support Effect Name | 151                |
 | Support Effect Desc | 154                |
+
+### Miscellaneous CSV
+These don't have too much content to justify creating a new csv file for each one of them.
+
+| Content             | Category ID        |
+| ------------------- | ------------------ |
+| Length Preference   | 161                |
+| School grade/level  | 162                |
+| Lottery rewards     | 177                |
