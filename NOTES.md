@@ -7,6 +7,7 @@ Just to keep track where each csv entries are taken from.
 | Conditions Name     | 142                |
 | Conditions Desc     | 143                |
 | Missions            | 67                 |
+| Mob NPC Name        | 59                 |
 | Race Name           | 28, 29, 32, 33, 36 |
 | Skill Name          | 47                 |
 | Skill Desc          | 48                 |
