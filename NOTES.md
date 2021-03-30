@@ -16,6 +16,9 @@ These are in their own csv files.
 | Skill Desc          | 48                 |
 | Support Effect Name | 151                |
 | Support Effect Desc | 154                |
+| Title               | 130                |
+| Title Requirements  | 131                |
+| Story Event Mission | 190                |
 
 ### Miscellaneous CSV
 These don't have too much content to justify creating a new csv file for each one of them.
