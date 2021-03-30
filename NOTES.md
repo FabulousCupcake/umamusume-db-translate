@@ -25,6 +25,5 @@ These don't have too much content to justify creating a new csv file for each on
 
 | Content             | Category ID        |
 | ------------------- | ------------------ |
-| Length Preference   | 161                |
 | School grade/level  | 162                |
 | Lottery rewards     | 177                |
