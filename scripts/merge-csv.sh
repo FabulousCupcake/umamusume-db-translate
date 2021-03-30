@@ -12,6 +12,7 @@ if [[ "$2" = "" ]]; then
   echo "merge-csv.sh – helper script to add new text fields from master.mdb"
   echo
   usage
+  exit
 fi
 
 # Loop through each line in <new-text>
