@@ -17,6 +17,7 @@ fi
 
 # Loop through each line in <new-text>
 # awk used here to remove duplicates
+IFS=
 cat "$1" | awk '!x[$0]++' | while read -r LINE; do
   # Try to find skill in <old-csv>
   # -F used here to match fixed strings (for `\n`s)
