@@ -15,6 +15,9 @@ if [[ "$2" = "" ]]; then
   exit
 fi
 
+# Print csv header for github ui
+echo '"text", "translation"'
+
 # Loop through each line in <new-text>
 # awk used here to remove duplicates
 IFS=
