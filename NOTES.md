@@ -25,5 +25,10 @@ These don't have too much content to justify creating a new csv file for each on
 
 | Content             | Category ID        |
 | ------------------- | ------------------ |
+| Dormitory           | 8                  |
+| Racetrack Name      | 31, 34             |
+| Racetrach Short     | 35                 |
+| Fan Pyramid         | 121                |
+| Training details    | 138                |
 | School grade/level  | 162                |
 | Lottery rewards     | 177                |
