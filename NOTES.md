@@ -11,6 +11,8 @@ These are in their own csv files.
 | Conditions Desc     | 143                |
 | Missions            | 67                 |
 | Mob NPC Name        | 59                 |
+| PVP Raw Score Name  | 140                |
+| PVP Raw Score Desc  | 141                |
 | Race Name           | 28, 29, 32, 33, 36 |
 | Skill Name          | 47                 |
 | Skill Desc          | 48                 |
