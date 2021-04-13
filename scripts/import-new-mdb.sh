@@ -35,6 +35,8 @@ fi
 import "$1" "./src/data/name.csv" "6"
 import "$1" "./src/data/skill-name.csv" "47"
 import "$1" "./src/data/skill-desc.csv" "48"
+import "$1" "./src/data/trainer-title.csv" "65"
+import "$1" "./src/data/trainer-title-requirements.csv" "66"
 import "$1" "./src/data/missions.csv" "67"
 import "$1" "./src/data/advice.csv" "97"
 import "$1" "./src/data/uma-title.csv" "130"
