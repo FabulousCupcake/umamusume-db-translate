@@ -36,7 +36,7 @@
 "GⅠで2着を3回とる","Finish 2rd place in a GI race 3 times"
 "スキルを15個以上獲得する","Learn ≥15 skills"
 "基礎能力[スピード]が800以上かつ\n芝のレースを15回以上出走する","Participate a turf race ≥15 times\nReach ≥800 speed"
-"重賞未勝利でGⅠを勝利する","Without winning a single big race\nWin a GI race"
+"重賞未勝利でGⅠを勝利する","Win a GI race while still haven't won any big race"
 "芝とダートのGⅠをそれぞれ1勝以上する","Win a turf and dirt GI race each at least once"
 "10回以上レースに出走し、全レースで3着以内で育成を完了する","<size=22>Participate a race ≥10 times\nFinish ≥3rd in every single race\nComplete the training</size>"
 "育成でオークスを勝利したウマ娘から想いを継承し、\nオークス、天皇賞（秋）を勝利し、\nファン数が320000人以上になる","<size=22>Inherit memories from parents that won the Oaks\nWin the Oaks and Tenno Sho (Autumn)\nEarn a total of ≥320000 fans</size>"
@@ -137,3 +137,4 @@
 "どちらかが育成で無敗で桜花賞、オークス、秋華賞を\n勝利したウマ娘から想いを継承し、\n無敗で桜花賞、オークス、秋華賞を勝利する","<size=22>Inherit memories from parents that won every single race including the Oka Sho, Oaks, and Shuka Sho\nWin the 3 of them while having zero losses</size>"
 "どちらもファン数が460000人以上のウマ娘から想いを継承し、\nファン数が480000人以上になる","Inherit memories from parents with ≥460000 fans\nEarn a total of ≥480000 fans"
 "全レースで2着以内で、\n菊花賞、天皇賞（春）、宝塚記念を勝利し、\n目標を全て達成し育成を完了する","<size=22>Finish ≥2nd in every single race\nWin the Kikka Sho, Tenno Sho (Spring), and Takarazuka Kinen\nClear all objectives and complete the training</size>"
+"作戦「追込」で皐月賞でラストの直線で4人以上を抜いて勝利し、\n作戦「追込」で天皇賞（春）を勝利し、\n基礎能力[根性]が1200以上になる。","<size=22>Win the Satsuki Sho as a chaser by breaking through ≥4 people in the last straight\nWin the Tenno Sho (Spring) as a chaser\nReach ≥1200 guts</size>"
