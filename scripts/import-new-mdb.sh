@@ -33,6 +33,7 @@ fi
 
 # Run series of imports
 import "$1" "./src/data/name.csv" "6"
+import "$1" "./src/data/item-name.csv" "23"
 import "$1" "./src/data/skill-name.csv" "47"
 import "$1" "./src/data/skill-desc.csv" "48"
 import "$1" "./src/data/trainer-title.csv" "65"

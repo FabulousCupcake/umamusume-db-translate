@@ -9,6 +9,7 @@ These are in their own csv files.
 | Character Name             | 6                  |
 | Conditions Desc            | 143                |
 | Conditions Name            | 142                |
+| Item Name                  | 23                 |
 | Missions                   | 67                 |
 | Mob NPC Name               | 59                 |
 | PVP Bonus Score Name       | 148                |
