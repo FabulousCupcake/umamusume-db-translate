@@ -7,23 +7,24 @@ These are in their own csv files.
 | -------------------------- | ------------------ |
 | Advice                     | 97                 |
 | Character Name             | 6                  |
-| Conditions Name            | 142                |
 | Conditions Desc            | 143                |
-| Trainer Title              | 65                 |
-| Trainer Title Requirements | 66                 |
+| Conditions Name            | 142                |
+| Item Name                  | 23                 |
 | Missions                   | 67                 |
 | Mob NPC Name               | 59                 |
-| PVP Raw Score Name         | 140                |
-| PVP Raw Score Desc         | 141                |
 | PVP Bonus Score Name       | 148                |
+| PVP Raw Score Desc         | 141                |
+| PVP Raw Score Name         | 140                |
 | Race Name                  | 28, 29, 32, 33, 36 |
-| Skill Name                 | 47                 |
 | Skill Desc                 | 48                 |
-| Support Effect Name        | 151                |
+| Skill Name                 | 47                 |
 | Support Effect Desc        | 154                |
+| Support Effect Name        | 151                |
 | Uma Title                  | 130                |
 | Uma Title Requirements     | 131                |
 | Story Event Mission        | 190                |
+| Trainer Title              | 65                 |
+| Trainer Title Requirements | 66                 |
 
 ### Miscellaneous CSV
 These don't have too much content to justify creating a new csv file for each one of them.
