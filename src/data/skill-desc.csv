@@ -375,7 +375,7 @@
 "レース終盤に前の方で相手を抜くと\n速度がわずかに上がる","<size=22>Slightly increase speed when overtaking in the front in Final Leg</size>"
 "最終直線で差を付けて先頭にいると\n速度をわずかに上げる","<size=22>Slightly increase speed if you have big lead in Final Leg straight</size>"
 "最終直線で前と差が詰まると\n速度が少し上がる","<size=22>Lightly increase speed when closing down the leader on the final straight</size>"
-"最終コーナー以降で前の方にいると\n加速力がわずかに上がる","<size=22>Slightly increase acceleration after final corner onward when leading</size>"
+"最終コーナー以降で前の方にいると\n加速力がわずかに上がる","<size=22>Slightly increase acceleration from final corner onward when leading</size>"
 "残り200m地点で前の方にいると\n少し抜け出しやすくなる","<size=22>If you're in the front when there's 200m remaining, passing becomes a bit easier</size>"
 "レース中間からロングスパートをかけて\n速度がちょっとずつ上がる","<size=22>From the middle of the race very slightly increase your speed by running a long spurt</size>"
 "残り200mを切って前の方にいると\n速度がわずかに上がる","<size=22>Slightly increase speed when close to the lead in last 200m</size>"
