@@ -32,7 +32,7 @@ if [[ "$1" = "" ]]; then
 fi
 
 # Run series of imports
-import "$1" "./src/data/name.csv" "6"
+import "$1" "./src/data/uma-name.csv" "6"
 import "$1" "./src/data/item-name.csv" "23"
 import "$1" "./src/data/item-desc.csv" "24"
 import "$1" "./src/data/skill-name.csv" "47"
@@ -41,8 +41,8 @@ import "$1" "./src/data/trainer-title.csv" "65"
 import "$1" "./src/data/trainer-title-requirements.csv" "66"
 import "$1" "./src/data/missions.csv" "67"
 import "$1" "./src/data/advice.csv" "97"
-import "$1" "./src/data/uma-title.csv" "130"
-import "$1" "./src/data/uma-title-requirements.csv" "131"
+import "$1" "./src/data/uma-nickname.csv" "130"
+import "$1" "./src/data/uma-nickname-requirements.csv" "131"
 import "$1" "./src/data/pvp-raw-score-name.csv" "140"
 import "$1" "./src/data/pvp-raw-score-desc.csv" "141"
 import "$1" "./src/data/conditions-name.csv" "142"
