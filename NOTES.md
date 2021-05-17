@@ -21,6 +21,7 @@ These are in their own csv files.
 | Support Effect Desc        | 154                |
 | Support Effect Name        | 151                |
 | Uma Name                   | 6                  |
+| Uma Title                  | 5                  |
 | Uma Nickname               | 130                |
 | Uma Nickname Requirements  | 131                |
 | Story Event Mission        | 190                |

@@ -32,6 +32,7 @@ if [[ "$1" = "" ]]; then
 fi
 
 # Run series of imports
+import "$1" "./src/data/uma-title.csv" "5"
 import "$1" "./src/data/uma-name.csv" "6"
 import "$1" "./src/data/item-name.csv" "23"
 import "$1" "./src/data/item-desc.csv" "24"
