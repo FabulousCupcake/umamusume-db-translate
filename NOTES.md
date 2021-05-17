@@ -20,6 +20,7 @@ These are in their own csv files.
 | Skill Name                 | 47                 |
 | Support Effect Desc        | 154                |
 | Support Effect Name        | 151                |
+| Support Effect Title       | 76                 |
 | Uma Name                   | 6                  |
 | Uma Title                  | 5                  |
 | Uma Nickname               | 130                |
