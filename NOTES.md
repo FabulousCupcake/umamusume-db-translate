@@ -6,7 +6,6 @@ These are in their own csv files.
 | Content                    | Category ID        |
 | -------------------------- | ------------------ |
 | Advice                     | 97                 |
-| Character Name             | 6                  |
 | Conditions Desc            | 143                |
 | Conditions Name            | 142                |
 | Item Desc                  | 24                 |
@@ -21,8 +20,11 @@ These are in their own csv files.
 | Skill Name                 | 47                 |
 | Support Effect Desc        | 154                |
 | Support Effect Name        | 151                |
-| Uma Title                  | 130                |
-| Uma Title Requirements     | 131                |
+| Support Effect Title       | 76                 |
+| Uma Name                   | 6                  |
+| Uma Title                  | 5                  |
+| Uma Nickname               | 130                |
+| Uma Nickname Requirements  | 131                |
 | Story Event Mission        | 190                |
 | Trainer Title              | 65                 |
 | Trainer Title Requirements | 66                 |
