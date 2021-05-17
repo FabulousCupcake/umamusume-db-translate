@@ -4,6 +4,7 @@ ERROR_COLOR=\033[31;01m
 WARN_COLOR=\033[33;01m
 
 .PHONY: all append-timestamp build build-json clean
+GITHUB_SHA?="$(shell git rev-parse HEAD || :)"
 
 all: clean build append-timestamp
 	@echo "$(OK_COLOR)==> Done!$(NOCOLOR)"
