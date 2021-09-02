@@ -8,6 +8,8 @@ These are in their own csv files.
 | Advice                     | 97                 |
 | Conditions Desc            | 143                |
 | Conditions Name            | 142                |
+| Factor Desc                | 172                |
+| Help Popup Text            | 63                 |
 | Item Desc                  | 24                 |
 | Item Name                  | 23                 |
 | Missions                   | 67                 |
@@ -16,11 +18,14 @@ These are in their own csv files.
 | PVP Raw Score Desc         | 141                |
 | PVP Raw Score Name         | 140                |
 | Race Name                  | 28, 29, 32, 33, 36 |
+| Race Predictions           | 72                 |
 | Skill Desc                 | 48                 |
 | Skill Name                 | 47                 |
+| Support Bonus              | 186                |
 | Support Effect Desc        | 154                |
 | Support Effect Name        | 151                |
 | Support Effect Title       | 76                 |
+| Support Unique Effect      | 155                |
 | Uma Name                   | 6                  |
 | Uma Title                  | 5                  |
 | Uma Nickname               | 130                |
