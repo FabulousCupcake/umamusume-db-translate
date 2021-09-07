@@ -6,6 +6,7 @@ These are in their own csv files.
 | Content                    | Category ID        |
 | -------------------------- | ------------------ |
 | Advice                     | 97                 |
+| Campaigns                  | 70                 |
 | Conditions Desc            | 143                |
 | Conditions Name            | 142                |
 | Factor Desc                | 172                |
@@ -33,7 +34,7 @@ These are in their own csv files.
 | Uma Title                  | 5                  |
 | Uma Nickname               | 130                |
 | Uma Nickname Requirements  | 131                |
-| Uma Profile                | 144                |
+| Uma Taglines               | 144                |
 | Uma Weight                 | 9                  |
 | Story Event Mission        | 190                |
 | Trainer Title              | 65                 |
