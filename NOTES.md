@@ -6,14 +6,18 @@ These are in their own csv files.
 | Content                    | Category ID        |
 | -------------------------- | ------------------ |
 | Advice                     | 97                 |
+| Campaigns                  | 70                 |
 | Conditions Desc            | 143                |
 | Conditions Name            | 142                |
 | Factor Desc                | 172                |
+| Gacha Info                 | 13, 26             |
 | Help Popup Text            | 63                 |
 | Item Desc                  | 24                 |
 | Item Name                  | 23                 |
 | Missions                   | 67                 |
+| Mission Groups             | 187                |
 | Mob NPC Name               | 59                 |
+| Presents Desc              | 64                 |
 | PVP Bonus Score Name       | 148                |
 | PVP Raw Score Desc         | 141                |
 | PVP Raw Score Name         | 140                |
@@ -30,6 +34,8 @@ These are in their own csv files.
 | Uma Title                  | 5                  |
 | Uma Nickname               | 130                |
 | Uma Nickname Requirements  | 131                |
+| Uma Taglines               | 144                |
+| Uma Weight                 | 9                  |
 | Story Event Mission        | 190                |
 | Trainer Title              | 65                 |
 | Trainer Title Requirements | 66                 |
