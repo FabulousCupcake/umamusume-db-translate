@@ -1,3 +1,15 @@
+<h1 align="center">This Repository is Archived</h1>
+<p align="center">
+I'm no longer maintaining this repository <br/>
+See <a href="https://github.com/noccu/umamusume-db-translate">noccu/umamusume-db-translate</a> for a maintained fork!
+</p>
+
+&nbsp;
+
+---
+
+&nbsp;
+
 [![Github Pages](https://github.com/FabulousCupcake/umamusume-db-translate/actions/workflows/master.yml/badge.svg)](https://github.com/FabulousCupcake/umamusume-db-translate/actions/workflows/master.yml)
 
 This project aims to create a tool in form of a static webpage to translate the game [Uma Musume Pretty Derby][1] by patching `master.mdb` file, which is easily swappable in Windows / DMM distribution of the game.
